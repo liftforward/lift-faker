@@ -1,7 +1,7 @@
 # Lift Faker
-This is a snapshot of version 3.0.0 of Faker.js, which our Lift project uses. After the author of Faker.js took down their repo without warning, it broke our Lift builds because it couldn't download the package anymore. Newer versions of Faker.js have since been uploaded, but our project expects version 3.0.0 which doesn't seem to be around anywhere.
+This is a snapshot of version 3.0.0 of Faker.js, used by some of our projects. After the author of Faker.js took down their repo without warning, it broke our builds because it couldn't download the package anymore. Newer versions of Faker.js have since been uploaded, but our project expects version 3.0.0 which doesn't seem to be around anywhere.
 
-This will live here and be used by the Lift project until we upgrade it or make it work with newer versions of Faker.js.
+This will live here and be used by projects until we upgrade it or make it work with newer versions of Faker.js.
 
 # faker.js - generate massive amounts of fake data in the browser and node.js
 
